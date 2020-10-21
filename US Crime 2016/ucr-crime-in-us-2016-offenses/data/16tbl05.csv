@@ -1,0 +1,41 @@
+column_a,column_b,column_c,column_d,column_e,column_f,column_g
+Classification,,2012,2013,2014,20151,2016
+Murder,,14856,14319,14164,15883,17250
+Rape (revised definition)2,,,113695,118027,126134,130603
+Rape (legacy definition)3,,85141,82109,84868,91261,95730
+Robbery:,Total4,355051,345093,322905,328109,332198
+Robbery by location:,Street/highway,154289,146499,132269,130724,129104
+Robbery by location:,Commercial house,47151,45760,45273,47229,50694
+Robbery by location:,Gas or service station,8660,8354,8072,8916,9690
+Robbery by location:,Convenience store,18180,17103,17380,18661,20619
+Robbery by location:,Residence,59979,57372,54120,54142,55002
+Robbery by location:,Bank,6666,6512,5939,5691,5903
+Robbery by location:,Miscellaneous,60126,63495,59853,62747,61185
+Burglary:,Total4,2109932,1932139,1713153,1587564,1515096
+Burglary by location:,Residence (dwelling):  ,1571635,1428448,1253915,1136664,1053559
+Burglary by location:,Residence Night,429662,395604,349441,328736,311536
+Burglary by location:,Residence Day,832944,756617,669364,594668,543461
+Burglary by location:,Residence Unknown,309028,276227,235111,213260,198563
+Burglary by location:,"Nonresidence (store, office, etc.):  ",538297,503691,459238,450900,461537
+Burglary by location:,Nonresidence Night,220784,206031,188010,189167,199568
+Burglary by location:,Nonresidence Day,192963,183380,167749,159177,159493
+Burglary by location:,Nonresidence Unknown,124550,114280,103480,102556,102476
+Larceny-theft (except motor vehicle theft):,Total4,6168874,6019465,5809054,5723488,5638455
+Larceny-theft by type:,Pocket-picking,29550,32426,31213,31208,27617
+Larceny-theft by type:,Purse-snatching,26407,25867,23479,23144,22645
+Larceny-theft by type:,Shoplifting,1147679,1199157,1247199,1276575,1177804
+Larceny-theft by type:,From motor vehicles (except accessories),1480790,1405858,1332924,1373720,1475917
+Larceny-theft by type:,Motor vehicle accessories,467369,439151,408545,399452,415120
+Larceny-theft by type:,Bicycles,223786,212889,209762,205600,184338
+Larceny-theft by type:,From buildings,745238,740092,712073,664381,605080
+Larceny-theft by type:,From coin-operated machines,17240,15906,13328,13020,12335
+Larceny-theft by type:,All others,2030815,1948120,1830531,1736388,1717599
+Larceny-theft by value:,Over $200,2872445,2819518,2687591,2613333,2558723
+Larceny-theft by value:,$50 to $200,1398870,1342473,1306350,1278027,1219866
+Larceny-theft by value:,Under $50,1897560,1857474,1815113,1832128,1859865
+Motor vehicle theft, ,723186,700288,686803,713063,765484
+1 The crime figures have been adjusted.  ,,,,,,
+2 The figures shown for this offense of rape were estimated using the revised Uniform Crime Reporting (UCR) definition of rape. See data declaration for further explanation.,,,,,,
+3 The figures shown for this offense of rape were estimated using the legacy UCR definition of rape. See data declaration for further explanation.,,,,,,
+"4 Because of rounding, the number of offenses may not add to the total.",,,,,,
+ ,,,,,,
