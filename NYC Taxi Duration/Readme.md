@@ -16,4 +16,4 @@ The link for **Dataset** is [here](https://drive.google.com/file/d/1RG4KRYuC-3d_
 This dataset and the idea is **originally** extracted from [Data Science Blogathon](https://datahack.analyticsvidhya.com/contest/data-science-blogathon-4/)
 
 
-
+[^1] To view the HTML file you need to download it and view using Chrome for best experience.
