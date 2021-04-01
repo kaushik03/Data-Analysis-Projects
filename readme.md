@@ -7,6 +7,8 @@
     - Libraries:
         - Pandas and Numpy. 
         - Matplotlib
+        - Plotly
+        - yfinance
     - Jupyter Notebook.
 - R
     - Software
@@ -22,6 +24,8 @@
     2. Covid 19 cases.
     3. US Economic Data
     4. WHO Data.
+    5. Stock Market Data
+    6. Bank Data For loan.
     ```
 - [x] R
     ```
