@@ -1,17 +1,29 @@
 # Data Analysis of Uber Ride for year 2014
 
-This is my first project, wherein getting clear with concepts of plotting and cleaning data to make it more elaborative
+![Uber_logo](https://upload.wikimedia.org/wikipedia/commons/5/58/Uber_logo_2018.svg)
+
+<br>
+
+This is my first **Data Analysis** project.
+
+The operations mainly done were on date time function
+
+Further Analysis to be done:- <br>
+1. GeoSpatial Data
+
+## Update
+
+I have used Bokeh library for interactive plots additionally.
+
+There are some basics analysis purely based on Pandas function.
+ 
+[**Data Source**](https://github.com/fivethirtyeight/uber-tlc-foil-response/blob/master/uber-trip-data/uber-raw-data-apr14.csv)
 
 ## Language Used
 
 1. Python
     - Pandas
     - Matplotlib
+    - Bokeh 
 
-### Data Used 
-[**Uber Raw Data**](https://github.com/fivethirtyeight/uber-tlc-foil-response/blob/master/uber-trip-data/uber-raw-data-apr14.csv)
 
-## Analysis Done :-
-1. Frequency of Rides by Days of Month using Histogram
-2. Frequency by Weekdays
-3. Frequency by hours of the Day.
