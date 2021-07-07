@@ -1,14 +1,10 @@
-# Covid-19 Data
+# Covid-19 Data Analysis
 ---
 
-Language used :- 
 
-1. Python
+![Covid_Poster](https://scwcontent.affino.com/AcuCustom/Sitename/DAM/022/data_graph__virus_Adobe.jpg)
 
-Libraries Used :- 
+## Data List
 
-- Pandas
-- Seaborn
-- Matplotlib
-- mpl_toolkits
-
+- [x]  USA County Wise
+    - The 
