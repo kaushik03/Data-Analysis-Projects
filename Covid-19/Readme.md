@@ -4,9 +4,11 @@
 
 ![Covid_Poster](https://scwcontent.affino.com/AcuCustom/Sitename/DAM/022/data_graph__virus_Adobe.jpg)
 
+## Used Pandas-Bokeh library. A high-level api for bokeh backend, plot methods using pandas. [pip](https://pypi.org/project/pandas-bokeh/)
+
 ## Data List
 
-- [x]  USA County Wise
+- [x]  USA County Wise Data Analysis
     - The Data is daily record from 
     1 January 2020 - 31 July 2020 for all counties
     - It comprises of all the Counties in USA States.
@@ -31,4 +33,22 @@
         | Folium  | For Plotting Geo Spatial Data | 
         | Bokeh  | For Interactive Plot | 
         
--   [x]
+-   [x] Covid Analysis Country Based:
+        - Data Used - Country_wise_latest Data from [Kaggle](https://kaggle.com)
+        - The aim in this data, is to get insights on the Covid Cases and recovered patients for each countries.
+
+        | Libraries | Purpose     |
+        | :------------- | :----------: |
+        |  Pandas | Data I/O, manipulations   |
+        | Datetime  | Date Time operations |
+        | Matplotlib  | For plotting Backend | 
+        | Pandas-Bokeh  | For Interactive Plot |
+
+
+## Analysis on Covid Cases in India.
+
+1. Data Used:
+    - Covid 19 Indi
+    - Covid India Status.
+
+    Main aim here was to create dashboard, to demonstrate different aspects of the data.
